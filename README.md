@@ -54,3 +54,4 @@ git clone https://github.com/asutoshp10/concentration_tracker.git
 cd concentration_tracker
 pip install -r requirements.txt
 python concentration_tracker.py
+
